@@ -1,4 +1,4 @@
-# Computational Intelligence Guide
+# Machine Intelligence Guide
 Welcome to the CI Guide repository! This repository serves as a comprehensive collection of tutorials and resources to help you navigate the vast landscape of data science and artificial intelligence (AI) concepts. Whether you're a beginner or an experienced practitioner, this guide is designed to provide valuable insights, practical examples, and resources to enhance your understanding and proficiency in these domains.
 
 ## Table of Contents
