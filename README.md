@@ -11,7 +11,9 @@ In the tutorials section, you will find a wide range of tutorials covering vario
 * [Data Science](https://github.com/saurabhanilpandey/guide/blob/main/datascience/datascience.md): A beginner-friendly tutorial introducing the core principles, processes, and tools used in data science.
 * Machine Learning: TBA
 * Deep Learning: TBA
-* Natural Language Processing (NLP): TBA   
+* Natural Language Processing (NLP): TBA  
+
+
 I am continuously adding new tutorials to cover a broader range of data science and AI topics. Feel free to explore these tutorials and expand your knowledge in these exciting fields.
 
 
