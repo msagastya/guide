@@ -24,5 +24,7 @@ I welcome contributions to enrich this guide with new tutorials and additional r
 * Create a new branch for your contribution.
 * Add your tutorial or resource to the relevant section.
 * Commit your changes and push the branch to your forked repository.
-* Submit a pull request, and our team will review your contribution.
-* Your contributions will be greatly appreciated and acknowledged.
+* Submit a pull request, and upon review, your contribution shall be merged.
+
+
+Your contributions will be greatly appreciated and acknowledged.
